@@ -76,9 +76,11 @@ Power BI
 
 ## 📊 GitHub Stats
 
-![Kunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalkrishnan&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkrishnan&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalkrishnan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkrishnan&layout=compact)
 
 ## 📫 Connect With Me
 
