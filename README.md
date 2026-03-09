@@ -53,6 +53,13 @@ Azure | Databricks | PySpark | SQL | Delta Lake | Git | Power BI
 
 ---
 
+![Azure](https://img.shields.io/badge/Azure-Data%20Engineering-blue)
+![Databricks](https://img.shields.io/badge/Databricks-PySpark-orange)
+![SQL](https://img.shields.io/badge/SQL-Data%20Warehouse-green)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+
+
+
 ## 📫 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/kunal-krishnan-a0a792137/ 
