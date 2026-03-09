@@ -1,79 +1,71 @@
 # Hi 👋 I'm Kunal Krishnan
 
-🚀 Data Engineer with 5+ years of experience building scalable cloud data platforms and enterprise ETL pipelines.
+🚀 **Data Engineer with 5+ years of experience building scalable cloud data platforms and enterprise ETL pipelines**
 
-Currently working as **Consultant at Capgemini**  
+Currently working as **Consultant at Capgemini**
 Previously worked at **Infosys**
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-• 5+ years of experience in Data Engineering  
-• Expertise in Azure cloud data platform  
-• Building scalable ETL and data replication pipelines  
-• Experience with enterprise data integration and analytics platforms  
+• 5+ years experience in Data Engineering
+• Expertise in Azure cloud data platform
+• Building scalable ETL pipelines
+• Experience with enterprise data replication and analytics systems
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-**Cloud & Data Platforms**
+**Cloud Platforms**
 
-Azure Data Factory  
-Azure Databricks  
-Azure Data Lake Gen2  
-Microsoft Fabric  
-Azure Synapse Analytics  
+Azure Data Factory
+Azure Databricks
+Microsoft Fabric
+Azure Data Lake Gen2
+Azure Synapse
 
 **Data Processing**
 
-PySpark  
-SQL  
-Delta Lake  
+PySpark
+SQL
+Delta Lake
 
-**Data Integration & Replication**
+**Data Integration**
 
-Fivetran  
-HVR Replication  
-ETL Pipelines  
+Fivetran
+HVR Replication
 
 **Tools**
 
-Git  
-Power BI  
-Data Warehousing  
+Git
+Power BI
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Data Engineering Projects
 
-🔹 Azure End-to-End Data Engineering Platform  
-🔹 Databricks PySpark ETL Framework  
-🔹 Real-Time Streaming Data Pipeline  
-🔹 Azure Medallion Data Lake Architecture  
-🔹 SQL Data Warehouse Analytics  
-
----
-
-## 🏗 Data Engineering Skills
-
-✔ Azure Data Factory Pipelines  
-✔ Data Replication using Fivetran / HVR  
-✔ Medallion Data Lake Architecture  
-✔ Data Warehouse Modeling  
-✔ Batch & Streaming Data Processing  
-✔ Enterprise Data Integration  
+🔹 Azure End-to-End Data Engineering Platform
+🔹 Databricks PySpark ETL Framework
+🔹 Real-Time Streaming Data Pipeline
+🔹 Azure Medallion Data Lake Architecture
+🔹 SQL Data Warehouse Analytics
 
 ---
 
-## 📊 Technologies & Tools
+## 🏗 Data Engineering Expertise
 
-Azure | Microsoft Fabric | Databricks | PySpark | SQL | Delta Lake | Fivetran | HVR | Git | Power BI
+✔ ETL Pipeline Development
+✔ Azure Data Factory Pipelines
+✔ Data Replication using Fivetran / HVR
+✔ Medallion Data Lake Architecture
+✔ Data Warehouse Modeling
+✔ Batch & Streaming Data Processing
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/kunal-krishnan-a0a792137/ 
 Email: kunalkrishnan966@gmail.com
