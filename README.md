@@ -1,69 +1,114 @@
 # Hi 👋 I'm Kunal Krishnan
 
-🚀 **Data Engineer with 5+ years of experience building scalable cloud data platforms and enterprise ETL pipelines**
+🚀 **Azure Data Engineer | Databricks | PySpark | Delta Lake**
 
-Currently working as **Consultant at Capgemini**
-Previously worked at **Infosys**
-
----
-
-## 👨‍💻 About Me
-
-• 5+ years experience in Data Engineering
-• Expertise in Azure cloud data platform
-• Building scalable ETL pipelines
-• Experience with enterprise data replication and analytics systems
+Consultant at **Capgemini**  
+Ex **Infosys**  
+5+ Years Experience in Data Engineering
 
 ---
 
-## ⚙️ Tech Stack
+# 🌐 Portfolio Website
 
-**Cloud Platforms**
-
-Azure Data Factory
-Azure Databricks
-Microsoft Fabric
-Azure Data Lake Gen2
-Azure Synapse
-
-**Data Processing**
-
-PySpark
-SQL
-Delta Lake
-
-**Data Integration**
-
-Fivetran
-HVR Replication
-
-**Tools**
-
-Git
-Power BI
+👉 https://kunalkrishnan.github.io/portfolio/
 
 ---
 
-## 🚀 Featured Data Engineering Projects
+# 👨‍💻 About Me
 
-🔹 Azure End-to-End Data Engineering Platform
-🔹 Databricks PySpark ETL Framework
-🔹 Real-Time Streaming Data Pipeline
-🔹 Azure Medallion Data Lake Architecture
-🔹 SQL Data Warehouse Analytics
+Azure Data Engineer with **5+ years of experience** designing scalable cloud data platforms and enterprise ETL pipelines.
+
+Experienced in building **enterprise analytics platforms and lakehouse architectures** using Azure ecosystem.
+
+### Clients
+
+• FedEx  
+• CSX Transportation  
+• Baker Hughes  
+
+---
+
+# ⚙️ Technology Stack
+
+### Cloud
+
+Azure Data Factory  
+Azure Databricks  
+Azure Data Lake Gen2  
+Azure Synapse Analytics  
+Microsoft Fabric  
+
+### Data Processing
+
+PySpark  
+SQL  
+Delta Lake  
+
+### Data Integration
+
+Fivetran  
+HVR Replication  
+
+### BI & Tools
+
+Power BI  
+Git  
 
 ---
 
-## 🏗 Data Engineering Expertise
+# 🚀 Featured Data Engineering Projects
 
-✔ ETL Pipeline Development
-✔ Azure Data Factory Pipelines
-✔ Data Replication using Fivetran / HVR
-✔ Medallion Data Lake Architecture
-✔ Data Warehouse Modeling
-✔ Batch & Streaming Data Processing
+## Azure Data Engineering Platform
+
+End-to-end Azure data engineering pipeline.
+
+Architecture:
+
+Azure Data Factory → Databricks → Delta Lake → Synapse → Power BI
+
+Repository:
+
+https://github.com/kunalkrishnan/azure-data-engineering-platform
 
 ---
+
+## Oracle → ADLS Medallion Migration
+
+Enterprise data migration implementing **Bronze → Silver → Gold architecture**.
+
+Includes:
+
+• Incremental Load  
+• Upsert Logic  
+• Duplicate Handling  
+• Delta Lake Optimization  
+
+Repository:
+
+https://github.com/kunalkrishnan/oracle-to-adls-medallion-migration
+
+---
+
+# 📚 Technical Documentation (Wiki)
+
+Project architecture and technical documentation available here:
+
+👉 https://github.com/kunalkrishnan/portfolio/wiki
+
+---
+
+# 🏗 Data Engineering Expertise
+
+✔ ETL Pipeline Development  
+✔ Azure Data Factory Pipelines  
+✔ Data Replication using Fivetran / HVR  
+✔ Medallion Data Lake Architecture  
+✔ Data Warehouse Modeling  
+✔ Batch & Streaming Data Processing  
+
+---
+
+# 🧰 Tech Badges
 
 ![Azure](https://img.shields.io/badge/Azure-Data%20Engineering-blue)
 ![Databricks](https://img.shields.io/badge/Databricks-PySpark-orange)
@@ -72,17 +117,33 @@ Power BI
 ![Fivetran](https://img.shields.io/badge/Fivetran-Replication-green)
 ![SQL](https://img.shields.io/badge/SQL-DataWarehouse-red)
 
-## 📊 GitHub Stats
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalkrishnan&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunalkrishnan&show_icons=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkrishnan&layout=compact)
+# 🔥 GitHub Streak
 
-## 📫 Connect With Me
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kunalkrishnan&theme=tokyonight)
 
-LinkedIn: https://www.linkedin.com/in/kunal-krishnan-a0a792137/ 
-Email: kunalkrishnan966@gmail.com
+---
+
+# 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunalkrishnan&layout=compact&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/kunal-krishnan-a0a792137/
+
+📧 Email  
+kunalkrishnan966@gmail.com
+
+📱 Phone  
++91 9914182048
